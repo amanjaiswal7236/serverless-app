@@ -1,7 +1,3 @@
-Sure! Here is the updated README without the code sections:
-
----
-
 # Serverless Email Service
 
 This project is a serverless REST API built using the Serverless Framework, AWS Lambda, and AWS SES (Simple Email Service). The API allows you to send emails by providing the recipient's email address, subject, and body text.
